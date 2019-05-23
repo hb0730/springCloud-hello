@@ -1,9 +1,10 @@
 spring:
   application:
     name: spring_cloud_zipkin
+  main:
+    allow-bean-definition-overriding: true
 server:
   port: 9411
-
 management:
   metrics:
     web:
