@@ -1,6 +1,6 @@
 spring:
   application:
-    name: spring_cloud_admin
+    name: spring-cloud-admin
 
 server:
   port: 8084

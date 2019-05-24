@@ -1,6 +1,6 @@
 spring:
   application:
-    name: spring_cloud_web_admin
+    name: spring-cloud-web-admin
   boot:
     admin:
       client:

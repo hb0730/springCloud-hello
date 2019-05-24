@@ -1,6 +1,6 @@
 spring:
   application:
-    name: spring_cloud_zipkin
+    name: spring-cloud-zipkin
   main:
     allow-bean-definition-overriding: true
 server:
