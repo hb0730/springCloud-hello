@@ -1,0 +1,4 @@
+com\cn\cloud\web\admin\controller\AdminController.class
+com\cn\cloud\web\admin\service\fallback\AdminServiceFallback.class
+com\cn\cloud\web\admin\service\AdminService.class
+com\cn\cloud\web\admin\WebAdminApplication.class

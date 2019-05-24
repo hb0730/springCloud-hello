@@ -24,11 +24,11 @@
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
         <!-- Spring Settings -->
-        <spring-cloud.version>Finchley.RELEASE</spring-cloud.version>
+        <spring-cloud.version>Greenwich.SR1</spring-cloud.version>
         <spring-boot-admin.version>2.1.5</spring-boot-admin.version>
         <spring-boot-alibaba-druid.version>1.1.10</spring-boot-alibaba-druid.version>
         <spring-boot-mapper.version>2.1.5</spring-boot-mapper.version>
-        <spring-boot-pagehelper.version>1.2.10</spring-boot-pagehelper.version>
+        <spring-boot-pagehelper.version>1.2.5</spring-boot-pagehelper.version>
         <zipkin.version>2.10.1</zipkin.version>
 
         <!-- Environment Settings -->

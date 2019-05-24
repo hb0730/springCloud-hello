@@ -1,7 +1,0 @@
-spring:
-  cloud:
-    config:
-      uri: http://localhost:8888
-      name: spring_cloud_zuul
-      label: master
-      profile: dev

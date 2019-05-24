@@ -1,0 +1,6 @@
+com\cn\cloud\service\admin\domain\TbSysUser.class
+com\cn\cloud\service\admin\service\AdminService.class
+com\cn\cloud\service\admin\controller\AdminController.class
+com\cn\cloud\service\admin\mapper\TbSysUserMapper.class
+com\cn\cloud\service\admin\service\impl\AdminServiceImpl.class
+com\cn\cloud\service\admin\ServiceAdminApplication.class
