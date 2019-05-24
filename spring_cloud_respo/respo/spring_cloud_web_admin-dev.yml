@@ -21,6 +21,10 @@ eureka:
 
 server:
   port: 8601
+##熔断
+feign:
+  hystrix:
+    enabled: true
 
 management:
   endpoint:
